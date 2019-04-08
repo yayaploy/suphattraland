@@ -51,7 +51,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://ratthiya.j.github.io/suphattraland/20190407_001.jpg) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://yayaploy.github.io/suphattraland/20190407_001.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   
@@ -67,9 +67,9 @@ body::before {
 <span class="blue"><p align="right">@suphattraland</p></span>
 <h1><span class="yellow"><marquee behavior="lrft">!!! 2526年4月7日@suphattraland!!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-
+<!--
 <p align="left"> <img src="QR_gousan.png" alt="アクセス用QRコード" width="100"> ← アクセス用QRコード</p>
-
+-->
 <div>
 <h3><span class="white">↓ 2019年3月8日、Goさんご卒業パーティー、画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
 <a href="20190407_001.jpg" data-lightbox="abc"><img src="20190407_001.jpg" alt="サンプル画像" width="200" /></a>
@@ -102,7 +102,10 @@ body::before {
 
 
 
-
+<!--
 まほろば地図
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d3613.6261617544483!2d140.1364481031006!3d36.765441082837135!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sja!2sjp!4v1527029841980" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>      
+/*
+<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d3613.6261617544483!2d140.1364481031006!3d36.765441082837135!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sja!2sjp!4v1527029841980" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>   
+*/
+-->

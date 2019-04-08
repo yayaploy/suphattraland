@@ -67,9 +67,9 @@ body::before {
 <span class="blue"><p align="right">@suphattraland</p></span>
 <h1><span class="yellow"><marquee behavior="lrft">!!! 2562/04/07@suphattraland!!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<!--
-<p align="left"> <img src="QR_gousan.png" alt="アクセス用QRコード" width="100"> ← アクセス用QRコード</p>
--->
+
+<p align="left"> <img src="QR_suphattraland.png" alt="アクセス用QRコード" width="100"> ← アクセス用QRコード</p>
+
 <div>
 <h3><span class="white">↓ 2019年4月7日、@suphattraland、画像はクリックで拡大します。</span></h3>
 <a href="20190407_001.jpg" data-lightbox="abc"><img src="20190407_001.jpg" alt="サンプル画像" width="200" /></a>

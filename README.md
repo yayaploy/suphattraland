@@ -89,23 +89,15 @@ body::before {
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+Map
+
+<iframe src="https://goo.gl/maps/aRnc3xnYcWN2" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>   
+
+
+
 <!-- フッタ -->
  <footer><span class="snow">
  Copyright 2019/04/08 S.Hada
 </span></footer>
 
 
-
-
-
-
-
-
-
-<!--
-まほろば地図
-
-/*
-<iframe src="https://goo.gl/maps/aRnc3xnYcWN2" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>   
-*/
--->

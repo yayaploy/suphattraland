@@ -51,7 +51,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/gousan/20190308_037.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://ratthiya.j.github.io/suphattraland/20190407_001.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   
@@ -73,12 +73,12 @@ body::before {
 <div>
 <h3><span class="white">↓ 2019年3月8日、Goさんご卒業パーティー、画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
 <a href="20190407_001.jpg" data-lightbox="abc"><img src="20190407_001.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20190407_006.JPG" data-lightbox="abc"><img src="20190407_006.JPG" alt="サンプル画像" width="225" /></a>
+<a href="20190407_006.jpg" data-lightbox="abc"><img src="20190407_006.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20190407_002.jpg" data-lightbox="abc"><img src="20190407_002.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20190407_003.jpg" data-lightbox="abc"><img src="20190407_003.jpg" alt="サンプル画像" width="600" /></a>
+<a href="20190407_003.jpg" data-lightbox="abc"><img src="20190407_003.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20190407_004.jpg" data-lightbox="abc"><img src="20190407_004.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20190407_007.JPG" data-lightbox="abc"><img src="20190407_007.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20190407_005.JPG" data-lightbox="abc"><img src="20190407_005.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190407_007.jpg" data-lightbox="abc"><img src="20190407_007.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20190407_005.jpg" data-lightbox="abc"><img src="20190407_005.jpg" alt="サンプル画像" width="200" /></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 

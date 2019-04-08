@@ -65,13 +65,13 @@ body::before {
 -->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <span class="blue"><p align="right">@suphattraland</p></span>
-<h1><span class="yellow"><marquee behavior="lrft">!!! 2526年4月7日@suphattraland!!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="lrft">!!! 2526/04/07@suphattraland!!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <!--
 <p align="left"> <img src="QR_gousan.png" alt="アクセス用QRコード" width="100"> ← アクセス用QRコード</p>
 -->
 <div>
-<h3><span class="white">↓ 2019年3月8日、Goさんご卒業パーティー、画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
+<h3><span class="white">↓ 2019年4月7日、@suphattraland、画像はクリックで拡大します。</span></h3>
 <a href="20190407_001.jpg" data-lightbox="abc"><img src="20190407_001.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20190407_006.jpg" data-lightbox="abc"><img src="20190407_006.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20190407_007.jpg" data-lightbox="abc"><img src="20190407_007.jpg" alt="サンプル画像" width="200" /></a>

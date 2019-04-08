@@ -65,7 +65,7 @@ body::before {
 -->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <span class="blue"><p align="right">@suphattraland</p></span>
-<h1><span class="yellow"><marquee behavior="lrft">!!! 2526/04/07@suphattraland!!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="lrft">!!! 2562/04/07@suphattraland!!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <!--
 <p align="left"> <img src="QR_gousan.png" alt="アクセス用QRコード" width="100"> ← アクセス用QRコード</p>

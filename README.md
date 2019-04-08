@@ -64,8 +64,8 @@ body::before {
 <body onload="alert('ゴーさん、お疲れ様でした。またやりましょう！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">
 -->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<span class="blue"><p align="right">背景は85当時をイメージしたVサイン！</p></span>
-<h1><span class="yellow"><marquee behavior="lrft">!!! 2019年3月8日(金)に’８５研友会、郷田さんのご卒業記念パーティーが執り行われました !!!</marquee></span></h1>
+<span class="blue"><p align="right">@suphattraland</p></span>
+<h1><span class="yellow"><marquee behavior="lrft">!!! 2526年4月7日@suphattraland!!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <p align="left"> <img src="QR_gousan.png" alt="アクセス用QRコード" width="100"> ← アクセス用QRコード</p>
@@ -91,7 +91,7 @@ body::before {
 
 <!-- フッタ -->
  <footer><span class="snow">
- Copyright 2019/03/08 S.Hada
+ Copyright 2019/04/08 S.Hada
 </span></footer>
 
 

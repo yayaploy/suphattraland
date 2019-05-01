@@ -72,13 +72,13 @@ body::before {
 
 <div>
 <h3><span class="white">↓ 2019年4月7日、@suphattraland、画像はクリックで拡大します。</span></h3>
-<a href="20190407_001.jpg" data-lightbox="abc"><img src="20190407_001.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20190407_006.jpg" data-lightbox="abc"><img src="20190407_006.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20190407_007.jpg" data-lightbox="abc"><img src="20190407_007.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20190407_003.jpg" data-lightbox="abc"><img src="20190407_003.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20190407_004.jpg" data-lightbox="abc"><img src="20190407_004.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20190407_002.jpg" data-lightbox="abc"><img src="20190407_002.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20190407_005.jpg" data-lightbox="abc"><img src="20190407_005.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20190407_001.jpg" data-lightbox="abc"><img src="20190407_001.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190407_006.jpg" data-lightbox="abc"><img src="20190407_006.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190407_007.jpg" data-lightbox="abc"><img src="20190407_007.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190407_003.jpg" data-lightbox="abc"><img src="20190407_003.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190407_004.jpg" data-lightbox="abc"><img src="20190407_004.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190407_002.jpg" data-lightbox="abc"><img src="20190407_002.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190407_005.jpg" data-lightbox="abc"><img src="20190407_005.jpg" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 

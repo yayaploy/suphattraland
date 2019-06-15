@@ -93,7 +93,9 @@ Map
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3890.6781526844334!2d101.22849661526335!3d12.799391090968987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3102e460b5128d8f%3A0x1d03d84f926bc760!2sSuphattra+Land!5e0!3m2!1sja!2sth!4v1554700408089!5m2!1sja!2sth" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-
+<script type='text/javascript' src='https://yayaploy.github.io/suphattraland/jquery.js?ver=1.12.4'></script>
+<script src="https://yayaploy.github.io/suphattraland/jquery.goup.min.js"></script>
+<script src="https://yayaploy.github.io/suphattraland/my.js"></script> 
 
 <!-- フッタ -->
  <footer><span class="snow">
